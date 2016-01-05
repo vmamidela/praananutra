@@ -112,7 +112,7 @@ $webforms = array();
     ),
     'emails' => array(
       0 => array(
-        'email' => 'info@pushyaconsulting.com',
+        'email' => 'info@praananutra.com',
         'subject' => 'default',
         'from_name' => 'default',
         'from_address' => 'default',

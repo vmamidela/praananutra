@@ -10,17 +10,17 @@
 function menulinks_features_menu_default_menu_links() {
   $menu_links = array();
 
-  // Exported menu link: main-menu_about-us:http://www.pushyaconsulting.com/about-us
-  $menu_links['main-menu_about-us:http://www.pushyaconsulting.com/about-us'] = array(
+  // Exported menu link: main-menu_about-us:http://www.praananutra.com/about-us
+  $menu_links['main-menu_about-us:http://www.praananutra.com/about-us'] = array(
     'menu_name' => 'main-menu',
-    'link_path' => 'http://www.pushyaconsulting.com/about-us',
+    'link_path' => 'http://www.praananutra.com/about-us',
     'router_path' => '',
     'link_title' => 'ABOUT US',
     'options' => array(
       'attributes' => array(
         'title' => '',
       ),
-      'identifier' => 'main-menu_about-us:http://www.pushyaconsulting.com/about-us',
+      'identifier' => 'main-menu_about-us:http://www.praananutra.com/about-us',
     ),
     'module' => 'menu',
     'hidden' => 0,
@@ -47,17 +47,17 @@ function menulinks_features_menu_default_menu_links() {
     'weight' => 0,
     'customized' => 0,
   );
-  // Exported menu link: main-menu_home:http://www.pushyaconsulting.com
-  $menu_links['main-menu_home:http://www.pushyaconsulting.com'] = array(
+  // Exported menu link: main-menu_home:http://www.praananutra.com
+  $menu_links['main-menu_home:http://www.praananutra.com'] = array(
     'menu_name' => 'main-menu',
-    'link_path' => 'http://www.pushyaconsulting.com',
+    'link_path' => 'http://www.praananutra.com',
     'router_path' => '',
     'link_title' => 'HOME',
     'options' => array(
       'attributes' => array(
         'title' => '',
       ),
-      'identifier' => 'main-menu_home:http://www.pushyaconsulting.com',
+      'identifier' => 'main-menu_home:http://www.praananutra.com',
     ),
     'module' => 'menu',
     'hidden' => 0,
@@ -67,17 +67,17 @@ function menulinks_features_menu_default_menu_links() {
     'weight' => -49,
     'customized' => 1,
   );
-  // Exported menu link: main-menu_jobs:http://www.pushyaconsulting.com/jobs
-  $menu_links['main-menu_jobs:http://www.pushyaconsulting.com/jobs'] = array(
+  // Exported menu link: main-menu_jobs:http://www.praananutra.com/jobs
+  $menu_links['main-menu_jobs:http://www.praananutra.com/jobs'] = array(
     'menu_name' => 'main-menu',
-    'link_path' => 'http://www.pushyaconsulting.com/jobs',
+    'link_path' => 'http://www.praananutra.com/jobs',
     'router_path' => '',
     'link_title' => 'JOBS',
     'options' => array(
       'attributes' => array(
         'title' => '',
       ),
-      'identifier' => 'main-menu_jobs:http://www.pushyaconsulting.com/jobs',
+      'identifier' => 'main-menu_jobs:http://www.praananutra.com/jobs',
     ),
     'module' => 'menu',
     'hidden' => 0,
@@ -103,19 +103,19 @@ function menulinks_features_menu_default_menu_links() {
     'expanded' => 0,
     'weight' => 0,
     'customized' => 0,
-    'parent_identifier' => 'main-menu_services:http://www.pushyaconsulting.com/services',
+    'parent_identifier' => 'main-menu_services:http://www.praananutra.com/services',
   );
-  // Exported menu link: main-menu_services:http://www.pushyaconsulting.com/services
-  $menu_links['main-menu_services:http://www.pushyaconsulting.com/services'] = array(
+  // Exported menu link: main-menu_services:http://www.praananutra.com/services
+  $menu_links['main-menu_services:http://www.praananutra.com/services'] = array(
     'menu_name' => 'main-menu',
-    'link_path' => 'http://www.pushyaconsulting.com/services',
+    'link_path' => 'http://www.praananutra.com/services',
     'router_path' => '',
     'link_title' => 'SERVICES',
     'options' => array(
       'attributes' => array(
         'title' => '',
       ),
-      'identifier' => 'main-menu_services:http://www.pushyaconsulting.com/services',
+      'identifier' => 'main-menu_services:http://www.praananutra.com/services',
     ),
     'module' => 'menu',
     'hidden' => 0,
